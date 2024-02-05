@@ -1,0 +1,1 @@
+In this project I created a calculator using the prompt method, asking the user to select a number from 1 to 4, whereas each one is a mathematical operation. After choosing the operation, the user has to choose two random numbers for the calculations. And in the end, it shows the answer in a alert message.
